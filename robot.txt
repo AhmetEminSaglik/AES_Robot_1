@@ -1,0 +1,24 @@
+------------------------------------------------
+----------------  LABİRENTİMİZ  ----------------
+------------------------------------------------
+| | |☺| | | | | | | 
+|X| | | |X| |X| |X| 
+| | | | | | | | | | 
+|X| |X| |X| |X| | | 
+|☯| | | | | | | | | 
+
+------------------------------------------------
+-----------  LABİRENTİMİZ  BİTMİŞTİR -----------
+------------------------------------------------
+
+Arabamiz 1 br saga ilerledi [0,1]
+Arabamiz 1 br saga ilerledi [0,2]
+Arabamiz 1 br saga ilerledi [0,3]
+Arabamiz 1 br saga ilerledi [0,4]
+Arabamiz  2 br yukari ilerledi
+!!! Referansa Dönüldü --- Konumu : [2,4]--> İlerlenecek yon SAG taraf
+Referans noktamız en sagda doğruca sol tarafa doğru ilerlemeye başlıyoruz!!!!!!!!!!!!!!!!!!!!!!!!!Arabamiz 1 br sola ilerledi [2,3]Arabamiz 1 br sola ilerledi [2,2]Arabamiz 1 br sola ilerledi [2,1]Arabamiz  2 br yukari ilerledi
+!!! Referansa Dönüldü --- Konumu : [4,1]--> İlerlenecek yon SAG taraf
+Arabamiz cıkısa ulasmistirSola ilerlenen toplam Birim : 3
+Saga ilerlenen toplam Birim : 4
+
